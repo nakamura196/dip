@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css"
+      rel="stylesheet"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui"
+    />
+  </head>
+
+  <body>
+    <div id="app">
+      <v-app-bar>
+        <v-toolbar-title>東京大学史料編纂所</v-toolbar-title>
+      </v-app-bar>
+      <v-app>
+        <v-container class="my-5">
+          <h1 class="mb-5">{{title}}</h1>
+          <p v-if="description" class="mb-5">{{description}}</p>
+
+          <ul>
+              <tree-item
+                class="item"
+                v-for="(child, index) in treeData.collections || treeData.manifests"
+                :key="index"
+                :item="child"
+                :vhint="vhint"
+              ></tree-item>
+          </ul>
+
+          <p class="mt-5">Document info：<a class="ml-2" :href="url"><img height="20px" src="https://cultural.jp/img/icons/iiif-logo.svg"/> collection</a></p>
+
+        </v-container>
+
+        <v-footer>
+          <span>東京大学史料編纂所</span>
+        </v-footer>
+      </v-app>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+    <script src="https://unpkg.com/vue-router@2.0.0/dist/vue-router.js"></script>
+
+    <!-- item template -->
+    <script type="text/x-template" id="item-template">
+    
+      <li class="mb-2">
+        <div
+          :class="{bold: isFolder}"
+          @click="toggle">
+          <a>
+            <template v-if="isFolder">
+              <b>
+              {{ item.label }}
+              </b>
+            </template>
+            <template v-else>
+              {{ item.label }}
+            </template>
+          
+            <span v-if="isFolder">[{{ isOpen ? '-' : '+' }}]</span>
+          </a>
+        </div>
+        <ul v-show="isOpen" v-if="isFolder">
+          <template v-if="item.collections">
+            <tree-item
+              class="item"
+              v-for="(child, index) in item.collections"
+              :key="index"
+              :item="child"
+              :vhint="vhint"
+            ></tree-item>
+          </template>
+          <template v-else>
+            <v-row>
+              <v-col cols="12" md="3" v-for="(manifest, index) in item.manifests" :item="manifest" :key="index">
+                <template v-if="vhint == 'use-thumb'">
+                  <v-card>
+                    <a :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">
+                      <v-img
+                        height="200px"
+                        style="background-color : lightgrey;"
+                        :src="manifest.thumbnail"
+                        contain
+                      >
+                      </v-img>
+                    </a>
+
+                    <v-card-text class="text--primary">
+                      <a :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">{{manifest.label}}</a>
+                    </v-card-text>
+
+                    
+                  </v-card>
+                </template>
+                <template v-else>
+                <li>
+                  <a :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">{{manifest.label}}</a>
+                </li>
+                </template>
+              </v-col>
+            </v-row>
+          </template>
+        </ul>
+      </li>
+    </script>
+
+    <script>
+
+      // define the tree-item component
+      Vue.component("tree-item", {
+        template: "#item-template",
+        props: {
+          item: Object,
+          vhint: String
+        },
+        data: function () {
+          return {
+            isOpen: false,
+          };
+        },
+        computed: {
+          isFolder: function () {
+            return this.item.manifests || this.item.collections;
+          },
+        },
+        methods: {
+          toggle: function () {
+            if (this.isFolder) {
+              this.isOpen = !this.isOpen;
+            }
+          }
+        },
+      });
+
+      
+
+      const router = new VueRouter({
+        mode: "history",
+      });
+
+      new Vue({
+        router,
+        el: "#app",
+        vuetify: new Vuetify(),
+        data: {
+          vhint: "",
+          treeData: {},
+          title : "",
+          description : "",
+          url: ""
+        },
+        async created() {
+          const u =
+            this.$route.query.u ||
+            "https://raw.githubusercontent.com/nakamura196/dip/master/docs/top.json";
+
+          this.url = u
+
+          const collection = await axios.get(u).then(function (res) {
+            return res.data;
+          });
+
+          if (collection.vhint) {
+            this.vhint = collection.vhint;
+          }
+
+          this.title = collection.label;
+          this.description = collection.description;
+
+          this.treeData = collection
+        },
+      });
+    </script>
+  </body>
+</html>
