@@ -129,7 +129,7 @@
           <template v-else>
             <v-row>
               <v-col cols="12" md="3" v-for="(manifest, index) in item.manifests" :item="manifest" :key="index">
-                <template v-if="false"><!--  v-if="vhint == 'use-thumb'" -->
+                <template v-if="vhint == 'use-thumb'">
                   <v-card>
                     <a :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">
                       <v-img

@@ -35,7 +35,9 @@ with open('data2.csv', 'r') as f:
 
 collections = []
 
-for label0 in map2:
+keys = ["紀要・所報", "大日本史料", "古文書", "古記録", "近世史料", "維新史料", "海外史料", "正倉院", "特殊史料"]
+
+for label0 in keys:
 
     map = map2[label0]
 
