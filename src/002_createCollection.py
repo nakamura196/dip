@@ -65,7 +65,6 @@ top = {
     "@id" : "https://nakamura196.github.io/dip/top.json",
     "@type" : "sc:Collection",
     "label" : "Digital Image Publisher",
-    "description" : "東京大学史料編纂所・出版物",
     "collections" : collections,
     "vhint" : "flat"
 }

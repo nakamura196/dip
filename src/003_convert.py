@@ -83,7 +83,8 @@ all = {
     "@id" : "https://nakamura196.github.io/dip/hi.json",
     "@type" : "sc:Collection",
     "collections" : collections0,
-    "label" : "史料集版面ギャラリー"
+    "label" : "史料集版面ギャラリー",
+    "description" : "東京大学史料編纂所により編纂・出版した史料集の版面画像ギャラリーです。 編纂・出版の詳細は<a href='https://www.hi.u-tokyo.ac.jp/publication/publication_top-j.html'>こちら</a>でご確認ください。<br/>クリエイティブ・コモンズ・ライセンスの「CC BY-NC-SA」（<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja'>クリエイティブ・コモンズ　表示 - 非営利 - 継承 4.0 国際ライセンス</a>）相当の条件で提供しています。詳細は<a href='https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by-nc-sa.html'>こちら</a>でご確認ください。"
 }
 
 f1 = open("../docs/hi.json", 'w')

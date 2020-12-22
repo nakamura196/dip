@@ -28,12 +28,20 @@
       <v-app>
         <v-container class="my-5">
           <h1 class="mb-5">{{title}}</h1>
-          <p v-if="description" class="mb-5">{{description}}</p>
+
+          <p v-if="description" class="mb-5">
+            <v-sheet
+              class="pa-4"
+              color="grey lighten-3"
+              v-html="description"
+            >
+            </v-sheet>
+          </p>
 
           <template v-if="vhint == 'flat'">
             <v-row>
               <v-col
-                col="12"
+                cols="12"
                 sm="2"
                 v-for="(child, index) in treeData.collections || treeData.manifests"
               >
