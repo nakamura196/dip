@@ -30,7 +30,33 @@
           <h1 class="mb-5">{{title}}</h1>
           <p v-if="description" class="mb-5">{{description}}</p>
 
-          <ul>
+          <template v-if="vhint == 'flat'">
+            <v-row>
+              <v-col
+                col="12"
+                sm="2"
+                v-for="(child, index) in treeData.collections || treeData.manifests"
+              >
+                <template v-if="child['@type'] == 'sc:Collection'">
+                  <b
+                    ><a :href="'?u='+url+'&id='+child['@id']"
+                      >{{child.label}}</a
+                    ></b
+                  >
+                </template>
+                <template v-else>
+                  <a
+                    target="_blank"
+                    :href="child['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+child['@id'] : child['@id']"
+                    >{{child.label}}</a
+                  >
+                  <v-icon>mdi-open-in-new</v-icon>
+                </template>
+              </v-col>
+            </v-row>
+          </template>
+          <template v-else>
+            <ul>
               <tree-item
                 class="item"
                 v-for="(child, index) in treeData.collections || treeData.manifests"
@@ -38,10 +64,24 @@
                 :item="child"
                 :vhint="vhint"
               ></tree-item>
-          </ul>
+            </ul>
+          </template>
 
-          <p class="mt-5">Document info：<a class="ml-2" :href="url"><img height="20px" src="https://cultural.jp/img/icons/iiif-logo.svg"/> collection</a></p>
+          <p class="mt-5" v-if="false">
+            Document info：<a class="ml-2" :href="url"
+              ><img
+                height="20px"
+                src="https://cultural.jp/img/icons/iiif-logo.svg"
+              />
+              collection</a
+            >
+          </p>
 
+          <p class="mt-10">
+            <v-icon>mdi-home</v-icon> <a :href="'?u='+url"
+              >HOME</a
+            >
+          </p>
         </v-container>
 
         <v-footer>
@@ -58,8 +98,8 @@
 
     <!-- item template -->
     <script type="text/x-template" id="item-template">
-    
-      <li class="mb-2">
+
+      <li class="mt-2">
         <div
           :class="{bold: isFolder}"
           @click="toggle">
@@ -72,7 +112,7 @@
             <template v-else>
               {{ item.label }}
             </template>
-          
+
             <span v-if="isFolder">[{{ isOpen ? '-' : '+' }}]</span>
           </a>
         </div>
@@ -89,7 +129,7 @@
           <template v-else>
             <v-row>
               <v-col cols="12" md="3" v-for="(manifest, index) in item.manifests" :item="manifest" :key="index">
-                <template v-if="vhint == 'use-thumb'">
+                <template v-if="false"><!--  v-if="vhint == 'use-thumb'" -->
                   <v-card>
                     <a :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">
                       <v-img
@@ -102,15 +142,15 @@
                     </a>
 
                     <v-card-text class="text--primary">
-                      <a :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">{{manifest.label}}</a>
+                      <a target="_blank" :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">{{manifest.label}}</a>
                     </v-card-text>
 
-                    
+
                   </v-card>
                 </template>
                 <template v-else>
                 <li>
-                  <a :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">{{manifest.label}}</a>
+                  <a target="_blank" :href="manifest['@type'] == 'sc:Manifest' ? 'http://mirador.cultural.jp/?manifest='+manifest['@id'] : manifest['@id']">{{manifest.label}}</a>
                 </li>
                 </template>
               </v-col>
@@ -121,13 +161,12 @@
     </script>
 
     <script>
-
       // define the tree-item component
       Vue.component("tree-item", {
         template: "#item-template",
         props: {
           item: Object,
-          vhint: String
+          vhint: String,
         },
         data: function () {
           return {
@@ -144,11 +183,26 @@
             if (this.isFolder) {
               this.isOpen = !this.isOpen;
             }
-          }
+          },
         },
       });
 
-      
+      function getUriMap(data) {
+        const uriMap = {};
+        uriMap[data["@id"]] = data;
+
+        const children = data.collections || data.manifests;
+        if (!children) {
+          return uriMap;
+        }
+        children.map((collection) => {
+          const map2 = getUriMap(collection);
+          for (let key in map2) {
+            uriMap[key] = map2[key];
+          }
+        });
+        return uriMap;
+      }
 
       const router = new VueRouter({
         mode: "history",
@@ -161,29 +215,38 @@
         data: {
           vhint: "",
           treeData: {},
-          title : "",
-          description : "",
-          url: ""
+          title: "",
+          description: "",
+          url: "",
         },
         async created() {
           const u =
             this.$route.query.u ||
             "https://raw.githubusercontent.com/nakamura196/dip/master/docs/top.json";
 
-          this.url = u
+          this.url = u;
 
-          const collection = await axios.get(u).then(function (res) {
+          let collection = await axios.get(u).then(function (res) {
             return res.data;
           });
 
-          if (collection.vhint) {
-            this.vhint = collection.vhint;
+          let vhint = collection.vhint || "";
+          vhint = this.$route.query.vhint || vhint;
+
+          this.vhint = vhint;
+
+          let id = this.$route.query.id || "";
+
+          const uriMap = getUriMap(collection);
+
+          if (id != "") {
+            collection = uriMap[id];
           }
 
           this.title = collection.label;
           this.description = collection.description;
 
-          this.treeData = collection
+          this.treeData = collection;
         },
       });
     </script>
