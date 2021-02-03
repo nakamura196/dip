@@ -44,6 +44,7 @@
                 cols="12"
                 sm="2"
                 v-for="(child, index) in treeData.collections || treeData.manifests"
+                :key="index"
               >
                 <template v-if="child['@type'] == 'sc:Collection'">
                   <b

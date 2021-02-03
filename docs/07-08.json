@@ -1,0 +1,79 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/07-08.json",
+    "@type": "sc:Collection",
+    "label": "幕府書物方日記",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0801/",
+            "label": "1 宝永３年～正徳５年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0802/",
+            "label": "2 享保元年～同４年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0803/",
+            "label": "3 享保５年～同６年・附御文庫始末記"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0804/",
+            "label": "4 享保７年～同８年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0805/",
+            "label": "5 享保９年～同１０年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0806/",
+            "label": "6 享保１１年～同１２年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0807/",
+            "label": "7 享保１３年・附御書物方年譜覚書"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0808/",
+            "label": "8 享保１４年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0809/",
+            "label": "9 享保１６年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0810/",
+            "label": "10 享保１８年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0811/",
+            "label": "11 享保２０年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0812/",
+            "label": "12 元文元年（享保２１年）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0813/",
+            "label": "13 元文２年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0814/",
+            "label": "14 元文３年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0815/",
+            "label": "15 元文４年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0816/",
+            "label": "16 元文５年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0817/",
+            "label": "17 寛保２年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0818/",
+            "label": "18 延享元年（寛保４年）"
+        }
+    ]
+}

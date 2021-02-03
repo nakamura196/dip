@@ -1,0 +1,127 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/02-11.json",
+    "@type": "sc:Collection",
+    "label": "11編",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1101/",
+            "label": "1 天正１０年６月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1102/",
+            "label": "2 天正１０年７月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1103/",
+            "label": "3 天正１０年12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1104/",
+            "label": "4 天正１１年４月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1105/",
+            "label": "5 天正１１年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1106/",
+            "label": "6 天正１２年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1107/",
+            "label": "7 天正１２年４月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1108/",
+            "label": "8 天正１２年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1109/",
+            "label": "9 天正１２年９月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1110/",
+            "label": "10 天正１２年１０月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1111/",
+            "label": "11 天正１２年雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1112/",
+            "label": "12 天正１２年雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1113/",
+            "label": "13 天正１３年正月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1114/",
+            "label": "14 天正１３年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1115/",
+            "label": "15 天正１３年４月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1116/",
+            "label": "16 天正１３年５月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1117/",
+            "label": "17 天正１３年７月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1118/",
+            "label": "18 天正１３年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1119/",
+            "label": "19 天正１３年閏８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1120/",
+            "label": "20 天正１３年９月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1121/",
+            "label": "21 天正１３年10月１日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1122/",
+            "label": "22 天正１３年11月21日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1123/",
+            "label": "23 天正１３年11月29日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1124/",
+            "label": "24 天正１３年12月～同年雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1125/",
+            "label": "25 天正１３年雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1126/",
+            "label": "26 天正１３年雑載　補遺"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1127/supple",
+            "label": "27 天正１３年補遺"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1128/",
+            "label": "28 天正１４年正月−同年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1191/",
+            "label": "別巻１ "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/1192/",
+            "label": "別巻２ "
+        }
+    ]
+}

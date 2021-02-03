@@ -1,0 +1,19 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-09.json",
+    "@type": "sc:Collection",
+    "label": "吉川家文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0901/",
+            "label": "1 吉川家文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0902/",
+            "label": "2 吉川家文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0903/",
+            "label": "3 吉川家文書別集 附録石見吉川家文書"
+        }
+    ]
+}

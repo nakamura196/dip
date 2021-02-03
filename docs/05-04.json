@@ -1,0 +1,31 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-04.json",
+    "@type": "sc:Collection",
+    "label": "石清水文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0401/",
+            "label": "1 石清水文書之一（田中家文書）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0402/",
+            "label": "2 石清水文書之二（田中家文書）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0403/",
+            "label": "3 石清水文書之三（田中家文書）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0404/",
+            "label": "4 石清水文書之四（田中家文書）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0405/",
+            "label": "5 石清水文書之五（田中家文書附録宮寺縁事抄）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0406/",
+            "label": "6 石清水文書之六（菊大路家文書及拾遺）"
+        }
+    ]
+}

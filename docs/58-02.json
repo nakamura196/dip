@@ -1,0 +1,35 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/58-02.json",
+    "@type": "sc:Collection",
+    "label": "イギリス商館長日記",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/58/0301/",
+            "label": "1 原文編之上 元和1年5月～2年11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/58/0302/",
+            "label": "2 原文編之中 元和2年12月～4年12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/58/0303/",
+            "label": "3 原文編之下 元和6年11月～8年2月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/58/0401/",
+            "label": "4 訳文編之上 元和1年5月～3年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/58/0402/",
+            "label": "5 訳文編之下 元和3年6月～8年2月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/58/0403/",
+            "label": "6 訳文編付録（上）元和5年1月～9年11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/58/0404/",
+            "label": "7 訳文編付録（下）総索引"
+        }
+    ]
+}

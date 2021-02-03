@@ -1,0 +1,27 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-20.json",
+    "@type": "sc:Collection",
+    "label": "東福寺文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2001/",
+            "label": "1 東福寺文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2002/",
+            "label": "2 東福寺文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2003/",
+            "label": "3 東福寺文書之三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2004/",
+            "label": "4 東福寺文書之四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2005/",
+            "label": "5 東福寺文書之五"
+        }
+    ]
+}

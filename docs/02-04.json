@@ -1,0 +1,75 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/02-04.json",
+    "@type": "sc:Collection",
+    "label": "4編",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0401/",
+            "label": "1 文治元年11月～３年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0402/",
+            "label": "2 文治３年９月～建久元年１月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0403/",
+            "label": "3 建久元年１月～３年２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0404/",
+            "label": "4 建久３年３月～６年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0405/",
+            "label": "5 建久６年９月～９年１２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0406/",
+            "label": "6 正治元年１月～建仁元年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0407/",
+            "label": "7 建仁元年４月～３年１２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0408/",
+            "label": "8 元久元年１月～建永元年４月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0409/",
+            "label": "9 建永元年５月～承元２年２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0410/",
+            "label": "10 承元２年３月～４年１２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0411/",
+            "label": "11 建暦元年１月～２年１１月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0412/",
+            "label": "12 建暦２年12月～建保元年12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0413/",
+            "label": "13 建保２年１月～４年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0414/",
+            "label": "14 建保４年４月～承久元年1月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0415/",
+            "label": "15 承久元年2月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0416/",
+            "label": "16 承久３年５月～７月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0417/",
+            "label": "17 建久４年１月～建仁３年12月"
+        }
+    ]
+}

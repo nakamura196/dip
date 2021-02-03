@@ -1,0 +1,1114 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-00.json",
+            "@type": "sc:Collection",
+            "label": "編年文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0001/",
+                    "label": "1 大宝２年～天平７年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0002/",
+                    "label": "2 天平８年～同１９年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0003/",
+                    "label": "3 天平２０年～天平勝宝５年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0004/",
+                    "label": "4 天平勝宝６年～天平宝字５年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0005/",
+                    "label": "5 天平宝字６年～神護景雲３年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0006/",
+                    "label": "6 宝亀元年～同１１年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0007/",
+                    "label": "7 （追加一）和銅２年～天平１３年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0008/",
+                    "label": "8 （追加二）天平１４年～同１７年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0009/",
+                    "label": "9 （追加三）天平１８年～同１９年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0010/",
+                    "label": "10 （追加四）天平２０年～天平感宝元年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0011/",
+                    "label": "11 （追加五）天平勝宝元年～同３年５月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0012/",
+                    "label": "12 （追加六）天平勝宝３年６月～同５年５月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0013/",
+                    "label": "13 （追加七）天平勝宝５年６月～天平宝字２年８月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0014/",
+                    "label": "14 （追加八）天平宝字２年９月～同４年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0015/",
+                    "label": "15 （追加九）天平宝字５年～同６年８月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0016/",
+                    "label": "16 （追加十）天平宝字６年９月～同８年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0017/",
+                    "label": "17 （追加十一）天平神護元年～宝亀元年７月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0018/",
+                    "label": "18 （追加十二）宝亀元年９月～同２年６月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0019/",
+                    "label": "19 （追加十三）宝亀２年７月～同３年３月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0020/",
+                    "label": "20 （追加十四）宝亀３年４月～同年１２月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0021/",
+                    "label": "21 （追加十五）宝亀３年月欠～同４年５月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0022/",
+                    "label": "22 （追加十六）宝亀４年５月～同５年８月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0023/",
+                    "label": "23 （追加十七）宝亀５年９月～同１０年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0024/",
+                    "label": "24 （補遺一）天武天皇１４年～天平勝宝元年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0025/",
+                    "label": "25 （補遺二）天平勝宝２年～宝亀７年　附録正倉院御物出納文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-01.json",
+            "@type": "sc:Collection",
+            "label": "高野山文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0101/",
+                    "label": "1 高野山文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0102/",
+                    "label": "2 高野山文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0103/",
+                    "label": "3 高野山文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0104/",
+                    "label": "4 高野山文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0105/",
+                    "label": "5 高野山文書之五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0106/",
+                    "label": "6 高野山文書之六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0107/",
+                    "label": "7 高野山文書之七"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0108/",
+                    "label": "8 高野山文書之八"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-02.json",
+            "@type": "sc:Collection",
+            "label": "浅野家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0201/",
+                    "label": "1 浅野家文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-03.json",
+            "@type": "sc:Collection",
+            "label": "伊達家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0301/",
+                    "label": "1 伊達家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0302/",
+                    "label": "2 伊達家文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0303/",
+                    "label": "3 伊達家文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0304/",
+                    "label": "4 伊達家文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0305/",
+                    "label": "5 伊達家文書之五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0306/",
+                    "label": "6 伊達家文書之六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0307/",
+                    "label": "7 伊達家文書之七"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0308/",
+                    "label": "8 伊達家文書之八"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0309/",
+                    "label": "9 伊達家文書之九"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0310/",
+                    "label": "10 伊達家文書之十"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-04.json",
+            "@type": "sc:Collection",
+            "label": "石清水文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0401/",
+                    "label": "1 石清水文書之一（田中家文書）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0402/",
+                    "label": "2 石清水文書之二（田中家文書）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0403/",
+                    "label": "3 石清水文書之三（田中家文書）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0404/",
+                    "label": "4 石清水文書之四（田中家文書）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0405/",
+                    "label": "5 石清水文書之五（田中家文書附録宮寺縁事抄）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0406/",
+                    "label": "6 石清水文書之六（菊大路家文書及拾遺）"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-05.json",
+            "@type": "sc:Collection",
+            "label": "相良家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0501/",
+                    "label": "1 相良家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0502/",
+                    "label": "2 相良家文書之二"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-06.json",
+            "@type": "sc:Collection",
+            "label": "観心寺文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0601/",
+                    "label": "1 観心寺文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-07.json",
+            "@type": "sc:Collection",
+            "label": "金剛寺文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0701/",
+                    "label": "1 金剛寺文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-08.json",
+            "@type": "sc:Collection",
+            "label": "毛利家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0801/",
+                    "label": "1 毛利家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0802/",
+                    "label": "2 毛利家文書之二　"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0803/",
+                    "label": "3 毛利家文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0804/",
+                    "label": "4 毛利家文書之四"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-09.json",
+            "@type": "sc:Collection",
+            "label": "吉川家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0901/",
+                    "label": "1 吉川家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0902/",
+                    "label": "2 吉川家文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0903/",
+                    "label": "3 吉川家文書別集 附録石見吉川家文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-10.json",
+            "@type": "sc:Collection",
+            "label": "東寺文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1001/",
+                    "label": "1 東寺文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1002/",
+                    "label": "2 東寺文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1003/",
+                    "label": "3 東寺文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1004/",
+                    "label": "4 東寺文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1005/",
+                    "label": "5 東寺文書之五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1006/",
+                    "label": "6 東寺文書之六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1007/",
+                    "label": "7 東寺文書之七"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1008/",
+                    "label": "8 東寺文書之八"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1009/",
+                    "label": "9 東寺文書之九"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1010/",
+                    "label": "10 東寺文書之十"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1011/",
+                    "label": "11 東寺文書之十一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1012/",
+                    "label": "12 東寺文書之十二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1013/",
+                    "label": "13 東寺文書之十三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1014/",
+                    "label": "14 東寺文書之十四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1015/",
+                    "label": "15 東寺文書之十五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1016/",
+                    "label": "16 東寺文書之十六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1017/",
+                    "label": "17 東寺文書之十七"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-11.json",
+            "@type": "sc:Collection",
+            "label": "小早川家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1101/",
+                    "label": "1 小早川家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1102/",
+                    "label": "2 小早川家文書之二附録浦家文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-12.json",
+            "@type": "sc:Collection",
+            "label": "上杉家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1201/",
+                    "label": "1 上杉家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1202/",
+                    "label": "2 上杉家文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1203/",
+                    "label": "3 上杉家文書之三"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-13.json",
+            "@type": "sc:Collection",
+            "label": "阿蘇文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1301/",
+                    "label": "1 阿蘇文書之一（阿蘇神社文書・阿蘇家文書上）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1302/",
+                    "label": "2 阿蘇文書之二（阿蘇家文書下）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1303/",
+                    "label": "3 阿蘇文書之三（西巌殿寺文書）　附録健軍神社文書・満願寺文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-14.json",
+            "@type": "sc:Collection",
+            "label": "熊谷家・三浦家・平賀家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1401/",
+                    "label": "1 熊谷家・三浦家・平賀家文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-15.json",
+            "@type": "sc:Collection",
+            "label": "山内首藤家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1501/",
+                    "label": "1 山内首藤家文書"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-16.json",
+            "@type": "sc:Collection",
+            "label": "島津家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1601/",
+                    "label": "1 島津家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1602/",
+                    "label": "2 島津家文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1603/",
+                    "label": "3 島津家文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1604/",
+                    "label": "4 島津家文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1605/",
+                    "label": "5 島津家文書之五"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-17.json",
+            "@type": "sc:Collection",
+            "label": "大徳寺文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1701/",
+                    "label": "1 大徳寺文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1702/",
+                    "label": "2 大徳寺文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1703/",
+                    "label": "3 大徳寺文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1704/",
+                    "label": "4 大徳寺文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1705/",
+                    "label": "5 大徳寺文書之五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1706/",
+                    "label": "6 大徳寺文書之六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1707/",
+                    "label": "7 大徳寺文書之七"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1708/",
+                    "label": "8 大徳寺文書之八"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1709/",
+                    "label": "9 大徳寺文書之九"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1710/",
+                    "label": "10 大徳寺文書之十"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1711/",
+                    "label": "11 大徳寺文書之十一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1712/",
+                    "label": "12 大徳寺文書之十二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1713/",
+                    "label": "13 大徳寺文書之十三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1714/",
+                    "label": "14 大徳寺文書之十四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1791/",
+                    "label": "1 大徳寺文書別集真珠庵文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1792/",
+                    "label": "2 大徳寺文書別集真珠庵文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1793/",
+                    "label": "3 大徳寺文書別集真珠庵文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1794/",
+                    "label": "4 大徳寺文書別集真珠庵文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1795/",
+                    "label": "5 大徳寺文書別集真珠庵文書之五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1796/",
+                    "label": "6 大徳寺文書別集真珠庵文書之六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1797/",
+                    "label": "7 大徳寺文書別集真珠庵文書之七"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1798/",
+                    "label": "8 大徳寺文書別集真珠庵文書之八"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-18.json",
+            "@type": "sc:Collection",
+            "label": "東大寺文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1801/",
+                    "label": "1 東大寺文書之一（東南院文書之一）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1802/",
+                    "label": "2 東大寺文書之二（東南院文書之二）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1803/",
+                    "label": "3 東大寺文書之三（東南院文書之三）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1806/",
+                    "label": "5 東大寺文書之五（内閣文庫所蔵東大寺文書）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1807/",
+                    "label": "6 東大寺文書之六（東大寺図書館架蔵文書之一）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1808/",
+                    "label": "7 東大寺文書之七（東大寺図書館架蔵文書之二）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1809/",
+                    "label": "8 東大寺文書之八（東大寺図書館架蔵文書之三）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1810/",
+                    "label": "9 東大寺文書之九（東大寺図書館架蔵文書之四）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1811/",
+                    "label": "10 東大寺文書之十（東大寺図書館架蔵文書之五）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1812/",
+                    "label": "11 東大寺文書之十一（東大寺図書館架蔵文書之六）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1813/",
+                    "label": "12 東大寺文書之十二（東大寺図書館架蔵文書之七）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1814/",
+                    "label": "13 東大寺文書之十三（東大寺図書館架蔵文書之八）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1815/",
+                    "label": "14 東大寺文書之十四（東大寺図書館架蔵文書之九）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1816/",
+                    "label": "15 東大寺文書之十五（東大寺図書館架蔵文書之十）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1817/",
+                    "label": "16 東大寺文書之十六（東大寺図書館架蔵文書之十一）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1818/",
+                    "label": "17 東大寺文書之十七（東大寺図書館架蔵文書之十二）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1819/",
+                    "label": "18 東大寺文書之十八（東大寺図書館架蔵文書之十三）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1820/",
+                    "label": "19 東大寺文書之十九（東大寺図書館架蔵文書之十四）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1821/",
+                    "label": "20 東大寺文書之二十（東大寺図書館架蔵文書之十五）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1822/",
+                    "label": "21 東大寺文書之二十一（東大寺図書館架蔵文書之十六）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1823/",
+                    "label": "22 東大寺文書之二十二（東大寺図書館架蔵文書之十七）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1824/",
+                    "label": "23 東大寺文書之二十三（東大寺図書館架蔵文書之十八）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1881/",
+                    "label": "1 東大寺文書別集一（東京大学所蔵文書之一）"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-19.json",
+            "@type": "sc:Collection",
+            "label": "醍醐寺文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1901/",
+                    "label": "1 醍醐寺文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1902/",
+                    "label": "2 醍醐寺文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1903/",
+                    "label": "3 醍醐寺文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1904/",
+                    "label": "4 醍醐寺文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1905/",
+                    "label": "5 醍醐寺文書之五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1906/",
+                    "label": "6 醍醐寺文書之六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1907/",
+                    "label": "7 醍醐寺文書之七"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1908/",
+                    "label": "8 醍醐寺文書之八"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1909/",
+                    "label": "9 醍醐寺文書之九"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1910/",
+                    "label": "10 醍醐寺文書之十"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1911/",
+                    "label": "11 醍醐寺文書之十一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1912/",
+                    "label": "12 醍醐寺文書之十二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1913/",
+                    "label": "13 醍醐寺文書之十三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1914/",
+                    "label": "14 醍醐寺文書之十四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1915/",
+                    "label": "15 醍醐寺文書之十五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1916/",
+                    "label": "16 醍醐寺文書之十六"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1991/",
+                    "label": "1 醍醐寺文書別集 満済准后日記紙背文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1992/",
+                    "label": "2 醍醐寺文書別集 満済准后日記紙背文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1993/",
+                    "label": "3 醍醐寺文書別集 満済准后日記紙背文書之三"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-20.json",
+            "@type": "sc:Collection",
+            "label": "東福寺文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2001/",
+                    "label": "1 東福寺文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2002/",
+                    "label": "2 東福寺文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2003/",
+                    "label": "3 東福寺文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2004/",
+                    "label": "4 東福寺文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2005/",
+                    "label": "5 東福寺文書之五"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-21.json",
+            "@type": "sc:Collection",
+            "label": "蜷川家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2101/",
+                    "label": "1 蜷川家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2102/",
+                    "label": "2 蜷川家文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2103/",
+                    "label": "3 蜷川家文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2104/",
+                    "label": "4 蜷川家文書之四"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2105/",
+                    "label": "5 蜷川家文書之五"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2106/",
+                    "label": "6 蜷川家文書之六"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-22.json",
+            "@type": "sc:Collection",
+            "label": "益田家文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2201/",
+                    "label": "1 益田家文書之一"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2202/",
+                    "label": "2 益田家文書之二"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2203/",
+                    "label": "3 益田家文書之三"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2204/",
+                    "label": "4 益田家文書之四"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-90.json",
+            "@type": "sc:Collection",
+            "label": "幕末外国関係文書",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9001/",
+                    "label": "1 嘉永６年６月～同年７月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9002/",
+                    "label": "2 嘉永6年8月～同年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9003/",
+                    "label": "3 嘉永6年10月～同年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9004/",
+                    "label": "4 安政元年正月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9005/",
+                    "label": "5 安政元年2月～同年3月. "
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9006/",
+                    "label": "6 安政元年4月～同年6月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9007/",
+                    "label": "7 安政元年7月～同年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9008/",
+                    "label": "8 安政元年10月～同年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9009/",
+                    "label": "9 安政2年正月～同年3月上旬"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9010/",
+                    "label": "10 安政2年3月中旬～同年4月中旬"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9011/",
+                    "label": "11 安政2年4月中旬～同年5月下旬"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9012/",
+                    "label": "12 安政2年6月上旬～同年9月上旬"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9013/",
+                    "label": "13 安政2年9月中旬～同3年2月下旬"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9014/",
+                    "label": "14 安政3年3月～同年8月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9015/",
+                    "label": "15 安政3年9月～同4年4月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9016/",
+                    "label": "16 安政4年5月～同年7月中旬"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9017/",
+                    "label": "17 安政4年7月下旬～同年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9018/",
+                    "label": "18 安政4年10月～同年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9019/",
+                    "label": "19 安政5年正月～同年4月上旬"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9020/",
+                    "label": "20 安政5年4月中旬～同年7月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9021/",
+                    "label": "21 安政5年8月～同年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9022/",
+                    "label": "22 安政6年正月～同年3月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9023/",
+                    "label": "23 安政6年4月～同年6月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9024/",
+                    "label": "24 安政6年6月～同年7月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9025/",
+                    "label": "25 安政6年7月～同年8月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9026/",
+                    "label": "26 安政6年8月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9027/",
+                    "label": "27 安政6年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9028/",
+                    "label": "28 安政6年10月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9029/",
+                    "label": "29 安政6年10月～同年11月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9030/",
+                    "label": "30 安政6年11月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9031/",
+                    "label": "31 安政6年11月～同年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9032/",
+                    "label": "32 安政6年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9033/",
+                    "label": "33 安政6年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9034/",
+                    "label": "34 萬延元年正月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9035/",
+                    "label": "35 萬延元年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9036/",
+                    "label": "36 萬延元年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9037/",
+                    "label": "37 萬延元年3月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9038/",
+                    "label": "38 万延1年3月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9039/",
+                    "label": "39 万延1年閏3-4月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9040/",
+                    "label": "40 万延1年5-6月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9041/",
+                    "label": "41 万延1年7-8月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9042/",
+                    "label": "42 万延1年9-10月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9043/",
+                    "label": "43 万延1年10月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9044/",
+                    "label": "44 万延1年11月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9045/",
+                    "label": "45 万延1年11-12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9046/",
+                    "label": "46 万延1年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9047/",
+                    "label": "47 文久1年1月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9048/",
+                    "label": "48 文久1年1月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9049/",
+                    "label": "49 文久1年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9050/",
+                    "label": "50 文久1年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9051/",
+                    "label": "51 文久1年3月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9052/",
+                    "label": "52 文久1年3月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9053/",
+                    "label": "53 文久1年4月"
+                }
+            ]
+        },
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/05-91.json",
+            "@type": "sc:Collection",
+            "label": "幕末外国関係文書付録",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9101/",
+                    "label": "1 （附録之一）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9102/",
+                    "label": "2 （附録之二）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9103/",
+                    "label": "3 （附録之三）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9104/",
+                    "label": "4 （附録之四）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9105/",
+                    "label": "5 （附録之五）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9106/",
+                    "label": "6 （附録之六）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9107/",
+                    "label": "7 （附録之七）"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/9108/",
+                    "label": "8 （附録之八）対話書"
+                }
+            ]
+        }
+    ],
+    "label": "『大日本古文書』"
+}

@@ -1,0 +1,131 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/02-02.json",
+    "@type": "sc:Collection",
+    "label": "2編",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0201/",
+            "label": "1 寬和2年6月～正暦4年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0202/",
+            "label": "2 正暦4年7月～長徳3年8月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0203/",
+            "label": "3 長徳3年9月～長保2年9月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0204/",
+            "label": "4 長保2年9月～5年12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0205/",
+            "label": "5 寛弘元年正月～4年11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0206/",
+            "label": "6 寛弘4年12月～8年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0207/",
+            "label": "7 寛弘8年7月～長和2年10月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0208/",
+            "label": "8 長和2年11月～4年5月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0209/",
+            "label": "9 長和4年6月～5年2月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0210/",
+            "label": "10 長和5年3月～7月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0211/",
+            "label": "11 長和5年8月～寬仁元年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0212/",
+            "label": "12 寬仁元年7月～11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0213/",
+            "label": "13 寬仁元年12月～2年11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0214/",
+            "label": "14 寬仁2年12月～3年9月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0215/",
+            "label": "15 寬仁3年10月～4年7月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0216/",
+            "label": "16 寬仁4年8月～治安元年4月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0217/",
+            "label": "17 治安元年4月～雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0218/",
+            "label": "18 治安2年正月～3年2月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0219/",
+            "label": "19 治安3年3月～11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0220/",
+            "label": "20 治安3年12月～万寿元年11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0221/",
+            "label": "21 万寿元年12月～2年7月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0222/",
+            "label": "22 万寿2年8月～3年正月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0223/",
+            "label": "23 万寿3年2月～4年2月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0224/",
+            "label": "24 万寿4年3月～10月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0225/",
+            "label": "25 万寿4年11月～12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0226/",
+            "label": "26 万寿4年12月～年中雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0227/",
+            "label": "27 長元元年正月～10月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0228/",
+            "label": "28 長元元年11月～同2年9月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0229/",
+            "label": "29 長元2年10月～同3年7月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0230/",
+            "label": "30 長元3年8月～同4年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0231/",
+            "label": "31 長元4年7月～同5年3月"
+        }
+    ]
+}

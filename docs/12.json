@@ -1,0 +1,22 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/12.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/12-01.json",
+            "@type": "sc:Collection",
+            "label": "明治史要",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/12/0001/",
+                    "label": "1 上 本文"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/12/0002/",
+                    "label": "2 下 附録表・附録概表"
+                }
+            ]
+        }
+    ],
+    "label": "『明治史要』"
+}

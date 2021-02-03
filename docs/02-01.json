@@ -1,0 +1,119 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/02-01.json",
+    "@type": "sc:Collection",
+    "label": "1編",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0101/",
+            "label": "1 仁和 3年 8月～寛平3年12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0102/",
+            "label": "2 寛平 4年正月～延喜元年10月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0103/",
+            "label": "3 延喜元年11月～8年雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0104/",
+            "label": "4 延喜 9年正月～18年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0105/",
+            "label": "5 延喜18年 7月～延長5年10月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0106/",
+            "label": "6 延長 5年11月～承平5年雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0107/",
+            "label": "7 承平 6年正月～天慶4年8月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0108/",
+            "label": "8 天慶 4年 9月～天暦元年5月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0109/",
+            "label": "9 天暦元年 6月～7年7月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0110/",
+            "label": "10 天暦 7年 8月～応和元年11月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0111/",
+            "label": "11 応和元年12月～康保4年5月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0112/",
+            "label": "12 康保 4年 5月～安和2年8月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0113/",
+            "label": "13 安和 2年 8月～天禄3年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0114/",
+            "label": "14 天禄 3年 7月～天延2年3月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0115/",
+            "label": "15 天延 2年 4月～貞元元年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0116/",
+            "label": "16 貞元元年 7月～2年是歳"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0117/",
+            "label": "17 貞元 2年雑載～天元3年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0118/",
+            "label": "18 天元 3年 7月～4年10月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0119/",
+            "label": "19 天元 4年11月～5年12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0120/",
+            "label": "20 天元 5年閏12月～永観2年2月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0121/",
+            "label": "21 永観 2年 3月～雑載"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0122/",
+            "label": "22 寛和元年正月～3月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0123/",
+            "label": "23 寛和元年 4月～12月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0124/",
+            "label": "24 寛和元年是歳～2年6月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0125/supple",
+            "label": "別1（補遺） 仁和 3年～延喜18年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0126/supple",
+            "label": "別2（補遺） 仁和 3年～延喜21年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0127/supple",
+            "label": "別3（補遺） 仁和 3年～延長 6年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/02/0128/supple",
+            "label": "別4（補遺） 延長 7年～承平 4年"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/52.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "https://nakamura196.github.io/dip/data/52-01.json",
+            "@type": "sc:Collection",
+            "label": "明治維新史料選集",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/52/0001/",
+                    "label": "1 上 幕末編"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/52/0002/",
+                    "label": "2 下 明治編"
+                }
+            ]
+        }
+    ],
+    "label": "『明治維新史料選集』"
+}

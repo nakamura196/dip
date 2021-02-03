@@ -1,0 +1,123 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/07-06.json",
+    "@type": "sc:Collection",
+    "label": "市中取締類集",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0601/",
+            "label": "1 市中取締之部一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0602/",
+            "label": "2 市中取締之部二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0603/",
+            "label": "3 市中取締之部三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0604/",
+            "label": "4 取締筋雑之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0605/",
+            "label": "5 名主取締之部一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0606/",
+            "label": "6 名主取締之部二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0607/",
+            "label": "7 名主取締之部三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0608/",
+            "label": "8 名主取締之部四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0609/",
+            "label": "9 地所取計之部一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0610/",
+            "label": "10 地所取計之部二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0611/",
+            "label": "11 河岸地調之部一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0612/",
+            "label": "12 河岸地調之部二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0613/",
+            "label": "13 河岸地調之部三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0614/",
+            "label": "14 河岸地調之部四他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0615/",
+            "label": "15 門前囲込之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0616/",
+            "label": "16 出家社人之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0617/",
+            "label": "17 身分扱方之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0618/",
+            "label": "18 書物錦絵之部一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0619/",
+            "label": "19 書物錦絵之部二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0620/",
+            "label": "20 書物錦絵之部三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0621/",
+            "label": "21 書物錦絵之部四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0622/",
+            "label": "22 御参詣調之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0623/",
+            "label": "23 町触申渡之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0624/",
+            "label": "24 諸願筋下ケ之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0625/",
+            "label": "25 高年御賞之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0626/",
+            "label": "26 旧里帰農之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0627/",
+            "label": "27 人足寄場之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0628/",
+            "label": "28 塗家造調之部他"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0629/",
+            "label": "29 辻番請負之部他"
+        }
+    ]
+}

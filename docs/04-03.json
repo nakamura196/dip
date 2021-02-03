@@ -1,0 +1,104 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/04.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "https://nakamura196.github.io/dip/data/04-01.json",
+            "@type": "sc:Collection",
+            "label": "1編",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0101/",
+                    "label": "1 弘化3年2月～同年閏5月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0102/",
+                    "label": "2 弘化3年6月～同年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0103/",
+                    "label": "3 弘化3年10月～同4年1月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0104/",
+                    "label": "4 弘化4年2月～同年3月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0105/",
+                    "label": "5 弘化4年4月～同年5月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0106/",
+                    "label": "6 弘化4年6月～同年8月10日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0107/",
+                    "label": "7 弘化4年8月11日～同年8月29日"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/dip/data/04-02.json",
+            "@type": "sc:Collection",
+            "label": "2編",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0201/",
+                    "label": "1 安政1年1月～同年1月20日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0202/",
+                    "label": "2  安政1年1月21日～同年1月晦日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0203/",
+                    "label": "3  安政1年2月1日～同年2月10日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0204/",
+                    "label": "4  安政1年2月11日～同年2月23日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0205/",
+                    "label": "5  安政1年2月24日～同年3月5日"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/dip/data/04-03.json",
+            "@type": "sc:Collection",
+            "label": "3編",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0301/",
+                    "label": "1 安政5年1月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0302/",
+                    "label": "2 安政5年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0303/",
+                    "label": "3  安政5年3月1日～同月20日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0304/",
+                    "label": "4 安政5年3月21日～同年4月9日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0305/",
+                    "label": "5 安政5年4月11日～同月25日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0306/",
+                    "label": "6 安政5年4月26日～5月10日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0307/",
+                    "label": "7 安政5年5月11日～5月晦日"
+                }
+            ]
+        }
+    ],
+    "label": "『大日本維新史料 編年之部』"
+}

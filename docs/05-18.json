@@ -1,0 +1,99 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-18.json",
+    "@type": "sc:Collection",
+    "label": "東大寺文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1801/",
+            "label": "1 東大寺文書之一（東南院文書之一）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1802/",
+            "label": "2 東大寺文書之二（東南院文書之二）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1803/",
+            "label": "3 東大寺文書之三（東南院文書之三）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1806/",
+            "label": "5 東大寺文書之五（内閣文庫所蔵東大寺文書）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1807/",
+            "label": "6 東大寺文書之六（東大寺図書館架蔵文書之一）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1808/",
+            "label": "7 東大寺文書之七（東大寺図書館架蔵文書之二）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1809/",
+            "label": "8 東大寺文書之八（東大寺図書館架蔵文書之三）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1810/",
+            "label": "9 東大寺文書之九（東大寺図書館架蔵文書之四）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1811/",
+            "label": "10 東大寺文書之十（東大寺図書館架蔵文書之五）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1812/",
+            "label": "11 東大寺文書之十一（東大寺図書館架蔵文書之六）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1813/",
+            "label": "12 東大寺文書之十二（東大寺図書館架蔵文書之七）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1814/",
+            "label": "13 東大寺文書之十三（東大寺図書館架蔵文書之八）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1815/",
+            "label": "14 東大寺文書之十四（東大寺図書館架蔵文書之九）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1816/",
+            "label": "15 東大寺文書之十五（東大寺図書館架蔵文書之十）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1817/",
+            "label": "16 東大寺文書之十六（東大寺図書館架蔵文書之十一）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1818/",
+            "label": "17 東大寺文書之十七（東大寺図書館架蔵文書之十二）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1819/",
+            "label": "18 東大寺文書之十八（東大寺図書館架蔵文書之十三）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1820/",
+            "label": "19 東大寺文書之十九（東大寺図書館架蔵文書之十四）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1821/",
+            "label": "20 東大寺文書之二十（東大寺図書館架蔵文書之十五）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1822/",
+            "label": "21 東大寺文書之二十一（東大寺図書館架蔵文書之十六）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1823/",
+            "label": "22 東大寺文書之二十二（東大寺図書館架蔵文書之十七）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1824/",
+            "label": "23 東大寺文書之二十三（東大寺図書館架蔵文書之十八）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1881/",
+            "label": "1 東大寺文書別集一（東京大学所蔵文書之一）"
+        }
+    ]
+}

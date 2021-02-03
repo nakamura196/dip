@@ -1,0 +1,23 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-22.json",
+    "@type": "sc:Collection",
+    "label": "益田家文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2201/",
+            "label": "1 益田家文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2202/",
+            "label": "2 益田家文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2203/",
+            "label": "3 益田家文書之三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/2204/",
+            "label": "4 益田家文書之四"
+        }
+    ]
+}

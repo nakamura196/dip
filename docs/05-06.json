@@ -1,0 +1,11 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-06.json",
+    "@type": "sc:Collection",
+    "label": "観心寺文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0601/",
+            "label": "1 観心寺文書"
+        }
+    ]
+}

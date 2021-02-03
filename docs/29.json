@@ -1,0 +1,70 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/29.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/29-01.json",
+            "@type": "sc:Collection",
+            "label": "日本関係海外史料目録",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/01/",
+                    "label": "1 蘭国 1"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/02/",
+                    "label": "2 蘭国 2"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/03/",
+                    "label": "3 蘭国 3"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/04/",
+                    "label": "4 蘭国 4"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/05/",
+                    "label": "5 蘭国 5"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/06/",
+                    "label": "6 英国 1"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/07/",
+                    "label": "7 英国 2"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/08/",
+                    "label": "8 英国 3"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/09/",
+                    "label": "9 米国 1"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/10/",
+                    "label": "10 米国 2"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/11/",
+                    "label": "11 瑞西・独・瑞典"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/12/",
+                    "label": "12 vatican・伊・葡・西・墨"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/13/",
+                    "label": "13 仏"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/29/14/",
+                    "label": "14 豪・印・indonesia・英・仏"
+                }
+            ]
+        }
+    ],
+    "label": "『日本関係海外史料目録』"
+}

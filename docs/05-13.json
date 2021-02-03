@@ -1,0 +1,19 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-13.json",
+    "@type": "sc:Collection",
+    "label": "阿蘇文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1301/",
+            "label": "1 阿蘇文書之一（阿蘇神社文書・阿蘇家文書上）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1302/",
+            "label": "2 阿蘇文書之二（阿蘇家文書下）"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1303/",
+            "label": "3 阿蘇文書之三（西巌殿寺文書）　附録健軍神社文書・満願寺文書"
+        }
+    ]
+}

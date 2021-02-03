@@ -1,0 +1,27 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/07-04.json",
+    "@type": "sc:Collection",
+    "label": "小倉藩人畜改帳",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0401/",
+            "label": "1 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0402/",
+            "label": "2 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0403/",
+            "label": "3 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0404/",
+            "label": "4 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/0405/",
+            "label": "5 "
+        }
+    ]
+}

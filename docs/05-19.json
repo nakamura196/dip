@@ -1,0 +1,83 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-19.json",
+    "@type": "sc:Collection",
+    "label": "醍醐寺文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1901/",
+            "label": "1 醍醐寺文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1902/",
+            "label": "2 醍醐寺文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1903/",
+            "label": "3 醍醐寺文書之三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1904/",
+            "label": "4 醍醐寺文書之四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1905/",
+            "label": "5 醍醐寺文書之五"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1906/",
+            "label": "6 醍醐寺文書之六"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1907/",
+            "label": "7 醍醐寺文書之七"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1908/",
+            "label": "8 醍醐寺文書之八"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1909/",
+            "label": "9 醍醐寺文書之九"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1910/",
+            "label": "10 醍醐寺文書之十"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1911/",
+            "label": "11 醍醐寺文書之十一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1912/",
+            "label": "12 醍醐寺文書之十二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1913/",
+            "label": "13 醍醐寺文書之十三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1914/",
+            "label": "14 醍醐寺文書之十四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1915/",
+            "label": "15 醍醐寺文書之十五"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1916/",
+            "label": "16 醍醐寺文書之十六"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1991/",
+            "label": "1 醍醐寺文書別集 満済准后日記紙背文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1992/",
+            "label": "2 醍醐寺文書別集 満済准后日記紙背文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1993/",
+            "label": "3 醍醐寺文書別集 満済准后日記紙背文書之三"
+        }
+    ]
+}

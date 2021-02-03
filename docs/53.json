@@ -1,0 +1,62 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/53.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "http://www.hi.u-tokyo.ac.jp/publication/dip/data/53-01.json",
+            "@type": "sc:Collection",
+            "label": "保古飛呂比",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0001/",
+                    "label": "1 天保1年～文久3年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0002/",
+                    "label": "2 元治1年～慶応3年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0003/",
+                    "label": "3 明治1年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0004/",
+                    "label": "4 明治2年～同3年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0005/",
+                    "label": "5 明治4年～同6年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0006/",
+                    "label": "6 明治7年～同8年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0007/",
+                    "label": "7 明治9年～同10年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0008/",
+                    "label": "8 明治11年～同12年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0009/",
+                    "label": "9 明治13年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0010/",
+                    "label": "10 明治14年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0011/",
+                    "label": "11 明治15年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/53/0012/",
+                    "label": "12 明治16年"
+                }
+            ]
+        }
+    ],
+    "label": "『保古飛呂比』"
+}

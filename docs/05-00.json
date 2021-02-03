@@ -1,0 +1,107 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-00.json",
+    "@type": "sc:Collection",
+    "label": "編年文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0001/",
+            "label": "1 大宝２年～天平７年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0002/",
+            "label": "2 天平８年～同１９年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0003/",
+            "label": "3 天平２０年～天平勝宝５年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0004/",
+            "label": "4 天平勝宝６年～天平宝字５年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0005/",
+            "label": "5 天平宝字６年～神護景雲３年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0006/",
+            "label": "6 宝亀元年～同１１年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0007/",
+            "label": "7 （追加一）和銅２年～天平１３年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0008/",
+            "label": "8 （追加二）天平１４年～同１７年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0009/",
+            "label": "9 （追加三）天平１８年～同１９年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0010/",
+            "label": "10 （追加四）天平２０年～天平感宝元年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0011/",
+            "label": "11 （追加五）天平勝宝元年～同３年５月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0012/",
+            "label": "12 （追加六）天平勝宝３年６月～同５年５月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0013/",
+            "label": "13 （追加七）天平勝宝５年６月～天平宝字２年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0014/",
+            "label": "14 （追加八）天平宝字２年９月～同４年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0015/",
+            "label": "15 （追加九）天平宝字５年～同６年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0016/",
+            "label": "16 （追加十）天平宝字６年９月～同８年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0017/",
+            "label": "17 （追加十一）天平神護元年～宝亀元年７月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0018/",
+            "label": "18 （追加十二）宝亀元年９月～同２年６月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0019/",
+            "label": "19 （追加十三）宝亀２年７月～同３年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0020/",
+            "label": "20 （追加十四）宝亀３年４月～同年１２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0021/",
+            "label": "21 （追加十五）宝亀３年月欠～同４年５月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0022/",
+            "label": "22 （追加十六）宝亀４年５月～同５年８月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0023/",
+            "label": "23 （追加十七）宝亀５年９月～同１０年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0024/",
+            "label": "24 （補遺一）天武天皇１４年～天平勝宝元年"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0025/",
+            "label": "25 （補遺二）天平勝宝２年～宝亀７年　附録正倉院御物出納文書"
+        }
+    ]
+}

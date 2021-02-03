@@ -1,0 +1,27 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/04-02.json",
+    "@type": "sc:Collection",
+    "label": "2編",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0201/",
+            "label": "1 安政1年1月～同年1月20日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0202/",
+            "label": "2  安政1年1月21日～同年1月晦日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0203/",
+            "label": "3  安政1年2月1日～同年2月10日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0204/",
+            "label": "4  安政1年2月11日～同年2月23日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0205/",
+            "label": "5  安政1年2月24日～同年3月5日"
+        }
+    ]
+}

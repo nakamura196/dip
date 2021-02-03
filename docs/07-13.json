@@ -1,0 +1,59 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/07-13.json",
+    "@type": "sc:Collection",
+    "label": "広橋兼胤公武御用日記",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1301/",
+            "label": "1 寛延３年６月～宝暦元年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1302/",
+            "label": "2 宝暦元年正月～１２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1303/",
+            "label": "3 宝暦２年正月～３年２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1304/",
+            "label": "4 宝暦３年正月～４年６月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1305/",
+            "label": "5 宝暦４年７月～５年６月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1306/",
+            "label": "6 宝暦５年７月～６年６月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1307/",
+            "label": "7 宝暦６年７月～７年１２月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1308/",
+            "label": "8 宝暦８年正月～９年３月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1309/",
+            "label": "9 宝暦９年４月～１０年４月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1310/",
+            "label": "10 宝暦１０年５月～１１年４月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1311/",
+            "label": "11 宝暦１１年５月～１２年９月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1312/",
+            "label": "12 宝暦１２年１０月～１３年７月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1313/",
+            "label": "13 宝暦１３年８月～明和元年１１月"
+        }
+    ]
+}

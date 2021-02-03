@@ -1,0 +1,95 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-17.json",
+    "@type": "sc:Collection",
+    "label": "大徳寺文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1701/",
+            "label": "1 大徳寺文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1702/",
+            "label": "2 大徳寺文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1703/",
+            "label": "3 大徳寺文書之三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1704/",
+            "label": "4 大徳寺文書之四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1705/",
+            "label": "5 大徳寺文書之五"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1706/",
+            "label": "6 大徳寺文書之六"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1707/",
+            "label": "7 大徳寺文書之七"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1708/",
+            "label": "8 大徳寺文書之八"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1709/",
+            "label": "9 大徳寺文書之九"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1710/",
+            "label": "10 大徳寺文書之十"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1711/",
+            "label": "11 大徳寺文書之十一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1712/",
+            "label": "12 大徳寺文書之十二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1713/",
+            "label": "13 大徳寺文書之十三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1714/",
+            "label": "14 大徳寺文書之十四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1791/",
+            "label": "1 大徳寺文書別集真珠庵文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1792/",
+            "label": "2 大徳寺文書別集真珠庵文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1793/",
+            "label": "3 大徳寺文書別集真珠庵文書之三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1794/",
+            "label": "4 大徳寺文書別集真珠庵文書之四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1795/",
+            "label": "5 大徳寺文書別集真珠庵文書之五"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1796/",
+            "label": "6 大徳寺文書別集真珠庵文書之六"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1797/",
+            "label": "7 大徳寺文書別集真珠庵文書之七"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/1798/",
+            "label": "8 大徳寺文書別集真珠庵文書之八"
+        }
+    ]
+}

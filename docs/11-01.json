@@ -1,0 +1,78 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/11.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "https://nakamura196.github.io/dip/data/11-01.json",
+            "@type": "sc:Collection",
+            "label": "復古記",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0001/",
+                    "label": "1 慶応3年10月14日 - 明治元年2月3日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0002/",
+                    "label": "2 明治元年2月3日 - 明治元年3月18日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0003/",
+                    "label": "3 明治元年3月19日 - 明治元年4月23日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0004/",
+                    "label": "4 明治元年4月24日 - 明治元年閏4月25日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0005/",
+                    "label": "5 明治元年閏4月26日 - 明治元年5月27日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0006/",
+                    "label": "6 明治元年5月28日 - 明治元年7月18日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0007/",
+                    "label": "7 明治元年7月19日 - 明治元年9月17日"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0008/",
+                    "label": "8 明治元年9月18日 - 明治元年10月28日，奥羽越諸藩罰典"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0009/",
+                    "label": "9 外記稿本 伏見口戦記，東海道戦記"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0010/",
+                    "label": "10 外記稿本 東海道戦記，房総戦記"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0011/",
+                    "label": "11 外記稿本 東叡山戦記，東山道戦記，北陸道戦記1"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0012/",
+                    "label": "12 外記稿本 北陸道戦記2，奥羽戦記"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0013/",
+                    "label": "13 外記稿本 白河口戦記，平潟口戦記，越後口戦記1"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0014/",
+                    "label": "14 外記稿本 越後口戦記2，蝦夷戦記"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0015/",
+                    "label": "15 綱文"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/11/0016/",
+                    "label": "16 正誤表"
+                }
+            ]
+        }
+    ],
+    "label": "『復古記』"
+}

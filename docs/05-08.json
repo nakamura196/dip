@@ -1,0 +1,23 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-08.json",
+    "@type": "sc:Collection",
+    "label": "毛利家文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0801/",
+            "label": "1 毛利家文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0802/",
+            "label": "2 毛利家文書之二　"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0803/",
+            "label": "3 毛利家文書之三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0804/",
+            "label": "4 毛利家文書之四"
+        }
+    ]
+}

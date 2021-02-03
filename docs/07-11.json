@@ -1,0 +1,31 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/07-11.json",
+    "@type": "sc:Collection",
+    "label": "編脩地誌備用典籍解題",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1101/",
+            "label": "1 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1102/",
+            "label": "2 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1103/",
+            "label": "3 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1104/",
+            "label": "4 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1105/",
+            "label": "5 "
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/07/1106/",
+            "label": "6 "
+        }
+    ]
+}

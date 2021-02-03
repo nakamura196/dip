@@ -1,0 +1,134 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/08.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "https://nakamura196.github.io/dip/data/08-01.json",
+            "@type": "sc:Collection",
+            "label": "井伊家史料",
+            "manifests": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0101/",
+                    "label": "1 文政3年1月～嘉永2年6月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0102/",
+                    "label": "2 嘉永2年7月～同5年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0103/",
+                    "label": "3 嘉永6年1月～安政1年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0104/",
+                    "label": "4 安政2年1月～同3年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0105/",
+                    "label": "5 安政4年1月～同5年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0106/",
+                    "label": "6 安政5年3月～同年5月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0107/",
+                    "label": "7 安政5年6月～同年7月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0108/",
+                    "label": "8 安政5年7月～同年8月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0109/",
+                    "label": "9 安政5年8月～同年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0110/",
+                    "label": "10 安政5年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0111/",
+                    "label": "11 安政5年9月～同年10月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0112/",
+                    "label": "12 安政5年10月～同年11月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0113/",
+                    "label": "13 安政5年11月～同年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0114/",
+                    "label": "14 安政5年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0115/",
+                    "label": "15 安政5年是年"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0116/",
+                    "label": "16 安政6年1月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0117/",
+                    "label": "17 安政6年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0118/",
+                    "label": "18 安政6年3月～同年4月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0119/",
+                    "label": "19 安政6年4月～同年6月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0120/",
+                    "label": "20 安政6年7月～同年8月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0121/",
+                    "label": "21 安政6年9月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0122/",
+                    "label": "22 安政6年10月～同年11月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0123/",
+                    "label": "23 安政6年11月～同年12月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0124/",
+                    "label": "24 安政6年12月～万延元年1月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0125/",
+                    "label": "25 万延元年2月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0126/",
+                    "label": "26 万延元年3月～同年5月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0127/",
+                    "label": "27 万延元年6月～同年11月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0128/",
+                    "label": "28 万延元年12月～文久元年7月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0129/",
+                    "label": "29 文久元年8月～文久2年7月"
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/08/0130/supple",
+                    "label": "30 安政5年8月～文久2年7月"
+                }
+            ]
+        }
+    ],
+    "label": "『大日本維新史料 類纂之部』"
+}

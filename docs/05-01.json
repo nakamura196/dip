@@ -1,0 +1,39 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/05-01.json",
+    "@type": "sc:Collection",
+    "label": "高野山文書",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0101/",
+            "label": "1 高野山文書之一"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0102/",
+            "label": "2 高野山文書之二"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0103/",
+            "label": "3 高野山文書之三"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0104/",
+            "label": "4 高野山文書之四"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0105/",
+            "label": "5 高野山文書之五"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0106/",
+            "label": "6 高野山文書之六"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0107/",
+            "label": "7 高野山文書之七"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/05/0108/",
+            "label": "8 高野山文書之八"
+        }
+    ]
+}

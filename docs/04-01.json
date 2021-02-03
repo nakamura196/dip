@@ -1,0 +1,35 @@
+{
+    "@id": "https://nakamura196.github.io/dip/data/04-01.json",
+    "@type": "sc:Collection",
+    "label": "1編",
+    "manifests": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0101/",
+            "label": "1 弘化3年2月～同年閏5月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0102/",
+            "label": "2 弘化3年6月～同年9月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0103/",
+            "label": "3 弘化3年10月～同4年1月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0104/",
+            "label": "4 弘化4年2月～同年3月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0105/",
+            "label": "5 弘化4年4月～同年5月"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0106/",
+            "label": "6 弘化4年6月～同年8月10日"
+        },
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/list/idata/850/8500/04/0107/",
+            "label": "7 弘化4年8月11日～同年8月29日"
+        }
+    ]
+}
